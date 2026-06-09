@@ -8,11 +8,11 @@
 
 1. [Introdução](#introdução)  
 2. [A Interface](#a-interface)  
-3. [Legendas e Cores](#legendas-e-cores)  
-4. [Zoneamento](#zoneamento)  
-5. [Como Buscar](#como-buscar)  
-6. [Casos Práticos](#casos-práticos)  
-7. [FAQ](#faq)  
+3. [Barra CNAE](#barra-cnae) 
+5. [Zoneamento](#zoneamento)  
+6. [Como Buscar](#como-buscar)  
+7. [Casos Práticos](#casos-práticos)  
+8. [FAQ](#faq)  
 
 ---  
 
@@ -63,6 +63,8 @@ Ao clicar em um lote, informações aparecem à direita:
 - **Endereço:** Localização completa  
 - **Viabilidade:** Análise de viabilidade econômica  
 
+![Painel de Legenda](./img/painel-cnae.png)  
+*Screenshot da legenda - 300x500px*
 ---  
 
 ## 🎨 Legendas e Cores  
@@ -194,7 +196,7 @@ O mapa irá centralizar no local encontrado. Clique no terreno para ver os detal
 
 ---  
 
-## ❓ FAQ - Perguntas Frequentes  
+##<a name="faq"> ❓ FAQ - Perguntas Frequentes  </a>
 
 ### Como saber a viabilidade econômica de um terreno?  
 
