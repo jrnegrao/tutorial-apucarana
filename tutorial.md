@@ -206,11 +206,11 @@ CNAE (Classificação Nacional de Atividades Econômicas) indica que tipo de ati
 
 ### Os dados são atualizados?  
 
-Sim, os dados são atualizados conforme novas informações são registradas na prefeitura. Última atualização em **2024**.  
+Sim, os dados são atualizados conforme novas informações são registradas na prefeitura. Última atualização em **2026**.  
 
 ### Posso usar esse mapa como prova legal?  
 
-Este mapa é informativo. Para questões legais e documentos oficiais, procure a **Secretaria de Planejamento** da Prefeitura de Apucarana.  
+Este mapa é informativo. Para questões legais e documentos oficiais, procure a **Idepplan** Instituto de Desenvolvimento, Pesquisa e Planejamento de Apucarana.  
 
 ### A aplicação funciona em celular?  
 
@@ -224,7 +224,7 @@ Entre em contato com a Prefeitura de Apucarana através do email: **suporte@apuc
 
 ## 📞 Contato  
 
-**Tutorial - Consulta de Viabilidade Econômica | Apucarana - PR | 2024**  
+**Tutorial - Consulta de Viabilidade Econômica | Apucarana - PR | 2026**  
 
 - 📧 Email: suporte@apucarana.gov.br  
 - 📱 Tel: (43) 3422-0000  
